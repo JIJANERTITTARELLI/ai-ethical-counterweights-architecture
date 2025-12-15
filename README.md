@@ -3,9 +3,9 @@ onceptual framework exploring internal ethical counterweights in AI-assisted dec
 
 # An Architectural Design Space for Internal Ethical Counterweights in AI Systems
 
-Author: [Tu nombre]  
+Author: Javier Ignacio Janer Tittarelli
 Version: v1.0  
-Date: [fecha de hoy]
+Date: Dec 15, 2025
 
 This repository contains a conceptual and architectural framework exploring the need for internal ethical counterweights in AI-assisted decision-making systems.
 
